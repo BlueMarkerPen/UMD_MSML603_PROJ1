@@ -1,0 +1,10 @@
+please place the .m files with Data folder in a same folder
+
+KNNfunc.m
+KNN function takes train data, test dat, train label, test label
+and k's nearest neighers.
+Return and display the accuracy, number of false and which ones
+
+BAYSfunc.m
+MLE_BAYSfunction takes train data, test dat, train label, test label
+and delta(a constant that's used to make the covariance matrix non-singular)
