@@ -8,3 +8,5 @@ Return and display the accuracy, number of false and which ones
 BAYSfunc.m
 MLE_BAYSfunction takes train data, test dat, train label, test label
 and delta(a constant that's used to make the covariance matrix non-singular)
+
+.xlsx file the experiment data note
